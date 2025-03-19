@@ -1,1 +1,5 @@
-# classificacao_regressao_cancer
+# Análise de dados sobre câncer.
+
+O câncer é um conjunto de doenças caracterizadas pelo crescimento descontrolado de células anormais no corpo. Existem diversos tipos de câncer, e sua causa pode estar relacionada a uma combinação de fatores genéticos, ambientais e comportamentais. Além disso, condições de resistência à insulina têm sido associadas a um maior risco de desenvolvimento de certos tipos de câncer.
+O estudo sobre a relação entre a resistência à insulina, a atividade do pâncreas e o câncer é de extrema importância, pois esses fatores podem desempenhar um papel crucial no desenvolvimento de certos tipos de câncer. Portanto, entender como essas variáveis estão interconectadas pode contribuir para a prevenção e o tratamento precoce de doenças oncológicas.
+Na análise, foi aplicada a técnica de matriz de correlação para analisar a relação entre diferentes variáveis. Além disso, foi utilizada a técnica regressão logística como um método de modelagem preditiva. A regressão logística é uma técnica estatística importante em estudos de saúde, pois permite prever a probabilidade de um evento (neste caso, o risco de câncer) com base em variáveis independentes (como a insulina).
